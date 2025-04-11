@@ -1,3 +1,4 @@
 # CinemaDB-Desin
 ### ERD model 
-<img width="434" alt="image" src="https://github.com/user-attachments/assets/b81db6f1-de03-44e2-979b-fe24fc43c301" />
+
+"C:\Users\NguyenDucAnh\OneDrive\Pictures\Screenshots\Screenshot 2025-04-11 095607.png"
